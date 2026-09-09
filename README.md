@@ -56,6 +56,4 @@ All rights reserved to PIBS
 
 ## Contributors
 
-Samir Daoud
-Georgeous Abu Ghattas
-Atallah Abu Ghattas
+Samir Daoud, Georgeous Abu Ghattas and Atallah Abu Ghattas
