@@ -36,11 +36,13 @@ List will be added soon...
 
 ## Repository Structure
 
-├── firmware/ # Microcontroller source code
-├── hardware/ # Circuit board design files (schematics, PCB layout)
-├── docs/ # Documentation, wiring diagrams, organism list
-├── assets/ # RFID card designs, images, labels
+```
+├── firmware/           # Microcontroller source code
+├── hardware/           # Circuit board design files (schematics, PCB layout)
+├── docs/               # Documentation, wiring diagrams, organism list
+├── assets/             # RFID card designs, images, labels
 └── README.md
+```
 
 ## Educational Goal
 
@@ -56,4 +58,8 @@ All rights reserved to PIBS
 
 ## Contributors
 
-Samir Daoud, Georgeous Abu Ghattas and Atallah Abu Ghattas
+```
+Samir Daoud 
+Georgeous Abu Ghattas
+Atallah Abu Ghattas
+```
